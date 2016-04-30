@@ -1,0 +1,12 @@
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1\test\bin\Debug\test.exe.config
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1\test\bin\Debug\test.exe
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1\test\bin\Debug\test.pdb
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1\test\obj\Debug\test.exe
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1\test\obj\Debug\test.pdb
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1,11月7日20：30\WcfService1\test\bin\Debug\test.exe.config
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1,11月7日20：30\WcfService1\test\bin\Debug\test.exe
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1,11月7日20：30\WcfService1\test\bin\Debug\test.pdb
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1,11月7日20：30\WcfService1\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1,11月7日20：30\WcfService1\test\obj\Debug\test.exe
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1,11月7日20：30\WcfService1\test\obj\Debug\test.pdb

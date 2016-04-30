@@ -1,0 +1,15 @@
+D:\聂心明的编程文件\WcfService1\WcfService1\bin\WcfService1.dll
+D:\聂心明的编程文件\WcfService1\WcfService1\bin\WcfService1.pdb
+D:\聂心明的编程文件\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+D:\聂心明的编程文件\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+D:\聂心明的编程文件\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1\WcfService1\bin\WcfService1.dll
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1\WcfService1\bin\WcfService1.pdb
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1,11月7日20：30\WcfService1\WcfService1\bin\WcfService1.dll
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1,11月7日20：30\WcfService1\WcfService1\bin\WcfService1.pdb
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1,11月7日20：30\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1,11月7日20：30\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+D:\聂心明的编程文件\聂心明开发的项目\WcfService1,11月7日20：30\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
